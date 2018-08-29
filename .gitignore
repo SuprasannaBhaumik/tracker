@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+build/
+/.settings/*
+/.project
+/.classpath
+/target
